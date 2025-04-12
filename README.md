@@ -47,14 +47,6 @@ A Song is created by an Artist and belongs to a Genre.
 
 A Playlist can have many Songs through the Playlist_Songs table.
 
-Setup Instructions
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/music-playlist-organizer.git
-cd music-playlist-organizer
 Set up MySQL:
 
 Make sure MySQL is installed on your system.
